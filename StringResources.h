@@ -1,0 +1,7 @@
+#define DATATYPE_STRING			L"string"
+#define DATATYPE_DECIMAL		L"decimal"
+#define DATATYPE_INTEGER		L"integer"
+#define DATATYPE_BOOLEAN		L"boolean"
+#define DATATYPE_DATE			L"date"
+#define DATATYPE_TIME			L"time"
+#define DATATYPE_NONE			L"none"
